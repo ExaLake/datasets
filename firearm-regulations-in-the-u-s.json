@@ -1,0 +1,353 @@
+[{
+  "data": "\n\nprocessing file: script.Rmd\n",
+  "stream_name": "stderr",
+  "time": 2.4309900120133534
+},{
+  "data": "\r  |                                                                       \r  |                                                                 |   0%\r  |                                                                       \r  |.                                                                |   2%\n",
+  "stream_name": "stdout",
+  "time": 2.56860802101437
+},{
+  "data": "   inline R code fragments\n\n\r  |                                                                       \r  |..                                                               |   3%\nlabel: setup\n",
+  "stream_name": "stdout",
+  "time": 2.572782496979926
+},{
+  "data": "\r  |                                                                       \r  |...                                                              |   5%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 2.6433696760213934
+},{
+  "data": "\r  |                                                                       \r  |....                                                             |   6%\n",
+  "stream_name": "stdout",
+  "time": 2.6597937699989416
+},{
+  "data": "label: unnamed-chunk-1\n",
+  "stream_name": "stdout",
+  "time": 2.759340971009806
+},{
+  "data": "\nAttaching package: 'dplyr'\n\n",
+  "stream_name": "stderr",
+  "time": 3.205559106019791
+},{
+  "data": "The following objects are masked from 'package:stats':\n\n    filter, lag\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n",
+  "stream_name": "stderr",
+  "time": 3.2095241739880294
+},{
+  "data": "\nAttaching package: 'gridExtra'\n\n",
+  "stream_name": "stderr",
+  "time": 3.2170913930167444
+},{
+  "data": "The following object is masked from 'package:dplyr':\n\n    combine\n\n",
+  "stream_name": "stderr",
+  "time": 3.2206740439869463
+},{
+  "data": "Loading required package: viridisLite\n",
+  "stream_name": "stderr",
+  "time": 3.2463437279802747
+},{
+  "data": "Loading required package: acs\n",
+  "stream_name": "stderr",
+  "time": 3.847372198011726
+},{
+  "data": "Loading required package: stringr\n",
+  "stream_name": "stderr",
+  "time": 3.85392297396902
+},{
+  "data": "Loading required package: methods\n",
+  "stream_name": "stderr",
+  "time": 3.862083218002226
+},{
+  "data": "Loading required package: XML\n",
+  "stream_name": "stderr",
+  "time": 3.942996833997313
+},{
+  "data": "\nAttaching package: 'acs'\n\n",
+  "stream_name": "stderr",
+  "time": 4.323274786002003
+},{
+  "data": "The following object is masked from 'package:gridExtra':\n\n    combine\n\nThe following object is masked from 'package:dplyr':\n\n    combine\n\nThe following object is masked from 'package:base':\n\n    apply\n\n",
+  "stream_name": "stderr",
+  "time": 4.327662570984103
+},{
+  "data": "\r  |                                                                       \r  |.....                                                            |   8%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 127.20320028002607
+},{
+  "data": "\r  |                                                                       \r  |......                                                           |  10%\nlabel: unnamed-chunk-2\n",
+  "stream_name": "stdout",
+  "time": 127.20855920598842
+},{
+  "data": "\r  |                                                                       \r  |.......                                                          |  11%\n  ordinary text without R code\n\n\r  |                                                                       \r  |........                                                         |  13%\n",
+  "stream_name": "stdout",
+  "time": 127.3358545830124
+},{
+  "data": "label: unnamed-chunk-3\n",
+  "stream_name": "stdout",
+  "time": 127.34194373997161
+},{
+  "data": "\r  |                                                                       \r  |.........                                                        |  14%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 127.80760681000538
+},{
+  "data": "\r  |                                                                       \r  |..........                                                       |  16%\nlabel: unnamed-chunk-4\n",
+  "stream_name": "stdout",
+  "time": 127.81163737998577
+},{
+  "data": "Picking joint bandwidth of 3.6\n",
+  "stream_name": "stderr",
+  "time": 128.4013882909785
+},{
+  "data": "\r  |                                                                       \r  |...........                                                      |  17%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 130.9032011689851
+},{
+  "data": "\r  |                                                                       \r  |............                                                     |  19%\nlabel: unnamed-chunk-5 (with options) \nList of 4\n $ fig.width :",
+  "stream_name": "stdout",
+  "time": 130.90880420501344
+},{
+  "data": " num 10\n $ fig.height: num 8\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 130.91263206698932
+},{
+  "data": "\r  |                                                                       \r  |.............                                                    |  21%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 136.69147567200707
+},{
+  "data": "\r  |                                                                       \r  |..............                                                   |  22%\nlabel: unnamed-chunk-6\n",
+  "stream_name": "stdout",
+  "time": 136.6953150340123
+},{
+  "data": "\r  |                                                                       \r  |...............                                                  |  24%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 139.175750512979
+},{
+  "data": "\r  |                                                                       \r  |.................                                                |  25%\nlabel: unnamed-chunk-7\n",
+  "stream_name": "stdout",
+  "time": 139.17995258996962
+},{
+  "data": "\r  |                                                                       \r  |..................                                               |  27%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 139.37144767900463
+},{
+  "data": "\r  |                                                                       \r  |...................                                              |  29%\nlabel: unnamed-chunk-8\n",
+  "stream_name": "stdout",
+  "time": 139.37593716901029
+},{
+  "data": "\r  |                                                                       \r  |....................                                             |  30%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 139.59833596402314
+},{
+  "data": "\r  |                                                                       \r  |.....................                                            |  32%\nlabel: unnamed-chunk-9\n",
+  "stream_name": "stdout",
+  "time": 139.60272394900676
+},{
+  "data": "\r  |                                                                       \r  |......................                                           |  33%\n",
+  "stream_name": "stdout",
+  "time": 139.61821260297438
+},{
+  "data": "  ordinary text without R code\n\n\r  |                                                                       \r  |.......................                                          |  35%\nlabel: unnamed-chunk-10 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 20\n $ fig.align : chr \"center\"\n $ eval      :",
+  "stream_name": "stdout",
+  "time": 139.62162244698266
+},{
+  "data": " symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 139.62525590101723
+},{
+  "data": "\r  |                                                                       \r  |........................                                         |  37%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 142.41420341300545
+},{
+  "data": "\r  |                                                                       \r  |.........................                                        |  38%\nlabel: unnamed-chunk-11\n",
+  "stream_name": "stdout",
+  "time": 142.41827168501914
+},{
+  "data": "\r  |                                                                       \r  |..........................                                       |  40%\n",
+  "stream_name": "stdout",
+  "time": 142.42215294897323
+},{
+  "data": "  ordinary text without R code\n\n\r  |                                                                       \r  |...........................                                      |  41%\nlabel: unnamed-chunk-12\n",
+  "stream_name": "stdout",
+  "time": 142.4252450800268
+},{
+  "data": "\r  |                                                                       \r  |............................                                     |  43%",
+  "stream_name": "stdout",
+  "time": 142.4288438319927
+},{
+  "data": "\n  ordinary text without R code\n\n\r  |                                                                       \r  |.............................                                    |  44%\nlabel: unnamed-chunk-13\n",
+  "stream_name": "stdout",
+  "time": 142.4323579799966
+},{
+  "data": "\r  |                                                                       \r  |..............................                                   |  46%\n  ordinary text without R code\n\n\r  |                                                                       \r  |...............................                                  |  48%\n",
+  "stream_name": "stdout",
+  "time": 144.4274928609957
+},{
+  "data": "label: unnamed-chunk-14\n",
+  "stream_name": "stdout",
+  "time": 144.43150433100527
+},{
+  "data": "\r  |                                                                       \r  |................................                                 |  49%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 146.37018782802625
+},{
+  "data": "\r  |                                                                       \r  |.................................                                |  51%\nlabel: unnamed-chunk-15\n",
+  "stream_name": "stdout",
+  "time": 146.37433310301276
+},{
+  "data": "\r  |                                                                       \r  |..................................                               |  52%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 148.09582052502083
+},{
+  "data": "\r  |                                                                       \r  |...................................                              |  54%\nlabel: unnamed-chunk-16\n",
+  "stream_name": "stdout",
+  "time": 148.10012410697527
+},{
+  "data": "\r  |                                                                       \r  |....................................                             |  56%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 148.16097147698747
+},{
+  "data": "\r  |                                                                       \r  |.....................................                            |  57%\nlabel: unnamed-chunk-17\n",
+  "stream_name": "stdout",
+  "time": 148.16454152797814
+},{
+  "data": "\r  |                                                                       \r  |......................................                           |  59%\n  ordinary text without R code\n\n\r  |                                                                       \r  |.......................................                          |  60%\n",
+  "stream_name": "stdout",
+  "time": 148.2509684789693
+},{
+  "data": "label: unnamed-chunk-18\n",
+  "stream_name": "stdout",
+  "time": 148.25505805201828
+},{
+  "data": "\r  |                                                                       \r  |........................................                         |  62%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 148.29377298697364
+},{
+  "data": "\r  |                                                                       \r  |.........................................                        |  63%\nlabel: unnamed-chunk-19\n",
+  "stream_name": "stdout",
+  "time": 148.29800246597733
+},{
+  "data": "\r  |                                                                       \r  |..........................................                       |  65%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 148.31701056897873
+},{
+  "data": "\r  |                                                                       \r  |...........................................                      |  67%\nlabel: unnamed-chunk-20\n",
+  "stream_name": "stdout",
+  "time": 148.32535722199827
+},{
+  "data": "\r  |                                                                       \r  |............................................                     |  68%\n  ordinary text without R code\n\n\r  |                                                                       \r  |.............................................                    |  70%",
+  "stream_name": "stdout",
+  "time": 150.52166090300307
+},{
+  "data": "\nlabel: unnamed-chunk-21\n",
+  "stream_name": "stdout",
+  "time": 150.52746614802163
+},{
+  "data": "\r  |                                                                       \r  |..............................................                   |  71%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 150.67288769199513
+},{
+  "data": "\r  |                                                                       \r  |...............................................                  |  73%\nlabel: unnamed-chunk-22 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n",
+  "stream_name": "stdout",
+  "time": 150.67664294998394
+},{
+  "data": "\n",
+  "stream_name": "stdout",
+  "time": 150.68103263597004
+},{
+  "data": "\r  |                                                                       \r  |................................................                 |  75%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 151.3283679820015
+},{
+  "data": "\r  |                                                                       \r  |..................................................               |  76%\nlabel: unnamed-chunk-23 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      :",
+  "stream_name": "stdout",
+  "time": 151.33173922501737
+},{
+  "data": " symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 151.33598280401202
+},{
+  "data": "\r  |                                                                       \r  |...................................................              |  78%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 151.84498340601567
+},{
+  "data": "\r  |                                                                       \r  |....................................................             |  79%\nlabel: unnamed-chunk-24\n",
+  "stream_name": "stdout",
+  "time": 151.84868336300133
+},{
+  "data": "\r  |                                                                       \r  |.....................................................            |  81%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 152.0057294970029
+},{
+  "data": "\r  |                                                                       \r  |......................................................           |  83%\nlabel: unnamed-chunk-25 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 152.00963716197293
+},{
+  "data": "\r  |                                                                       \r  |.......................................................          |  84%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 152.66439252201235
+},{
+  "data": "\r  |                                                                       \r  |........................................................         |  86%\nlabel: unnamed-chunk-26 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      :",
+  "stream_name": "stdout",
+  "time": 152.66773956397083
+},{
+  "data": " symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 152.67148322198773
+},{
+  "data": "\r  |                                                                       \r  |.........................................................        |  87%\n  ordinary text without R code\n\n\r  |                                                                       \r  |..........................................................       |  89%\n",
+  "stream_name": "stdout",
+  "time": 153.23477021802682
+},{
+  "data": "label: unnamed-chunk-27 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      :",
+  "stream_name": "stdout",
+  "time": 153.2385944799753
+},{
+  "data": " symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 153.2421706310124
+},{
+  "data": "\r  |                                                                       \r  |...........................................................      |  90%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 153.79327871202258
+},{
+  "data": "\r  |                                                                       \r  |............................................................     |  92%\nlabel: unnamed-chunk-28 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 153.79717057698872
+},{
+  "data": "\r  |                                                                       \r  |.............................................................    |  94%\n  ordinary text without R code\n\n\r  |                                                                       \r  |..............................................................   |  95%\n",
+  "stream_name": "stdout",
+  "time": 154.2489723630133
+},{
+  "data": "label: unnamed-chunk-29 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 154.25275562301977
+},{
+  "data": "\r  |                                                                       \r  |...............................................................  |  97%\n  ordinary text without R code\n\n\r  |                                                                       \r  |................................................................ |  98%\n",
+  "stream_name": "stdout",
+  "time": 154.93092607299332
+},{
+  "data": "label: unnamed-chunk-30 (with options) \nList of 4\n $ fig.width : num 10\n $ fig.height: num 5\n $ fig.align : chr \"center\"\n $ eval      : symbol T\n\n",
+  "stream_name": "stdout",
+  "time": 154.93538466101745
+},{
+  "data": "\r  |                                                                       \r  |.................................................................| 100%\n  ordinary text without R code\n\n",
+  "stream_name": "stdout",
+  "time": 155.3799773430219
+},{
+  "data": "\n",
+  "stream_name": "stdout",
+  "time": 155.3900054669939
+},{
+  "data": "output file: /kaggle/working/script.knit.md\n\n",
+  "stream_name": "stderr",
+  "time": 155.40896906802664
+},{
+  "data": "/usr/local/bin/pandoc +RTS -K512m -RTS /kaggle/working/script.utf8.md --to html --from markdown+autolink_bare_uris+ascii_identifiers+tex_math_single_backslash --output /kaggle/working/__results__.html --smart --email-obfuscation none --standalone --section-divs --table-of-contents --toc-depth 3 --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --number-sections --variable 'theme:bootstrap' --include-in-header /tmp/RtmpUHKUkT/rmarkdown-str13a4d51be.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --variable code_folding=show --variable code_menu=1 \n",
+  "stream_name": "stdout",
+  "time": 155.72061703400686
+},{
+  "data": "\nOutput created: __results__.html\n",
+  "stream_name": "stderr",
+  "time": 155.86619848397095
+},{
+  "data": "Warning messages:\n1: Removed 1150 rows containing missing values (geom_path). \n2: In self$bind() :\n  The following regions were missing and are being set to NA: district of columbia\n",
+  "stream_name": "stderr",
+  "time": 155.87031675799517
+}]
