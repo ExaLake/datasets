@@ -134,4 +134,12 @@ dfTestData.write.format("delta").mode("overwrite").partitionBy("country").save("
 
 # COMMAND ----------
 
+# MAGIC %sql select distinct device_id from timeseries.dbl_test_data1;
+
+# COMMAND ----------
+
+
+
+# COMMAND ----------
+
 
